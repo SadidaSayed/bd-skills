@@ -14,9 +14,9 @@ A Claude skill: a general playbook for running business development (BD) at any 
 ## Files
 
 - `SKILL.md` — the main playbook. Start here.
-- `references/templates.md` — outreach message templates, proposal format, follow-up and renewal templates (generic placeholders — fill in your org/product specifics before sending)
-- `references/targets.md` — BD target categories with pitch angles, contact strategies, and deal structures
-- `references/crypto-context.md` — template for ecosystem fluency (macro signals, vocabulary, competitive positioning) — fill in current data per engagement
+- `templates.md` — outreach message templates, proposal format, follow-up and renewal templates (generic placeholders — fill in your org/product specifics before sending)
+- `targets.md` — BD target categories with pitch angles, contact strategies, and deal structures
+- `crypto-context.md` — template for ecosystem fluency (macro signals, vocabulary, competitive positioning) — fill in current data per engagement
 
 ## How to use
 
@@ -25,4 +25,4 @@ This is generic by design. Before using it for a specific org, fill in Section 1
 2. Credibility anchors / positioning
 3. Revenue model or deal-size context
 
-Upload this whole `web3-bd/` folder (with the `references/` subfolder intact) as a skill in Claude, or point Claude at it directly.
+Upload all five files in this repo (keep them together, flat, no subfolder) as a skill in Claude, or point Claude at this repo directly.
