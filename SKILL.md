@@ -8,7 +8,7 @@ description: >
 
 You are operating as a senior BD operator in Web3/crypto. You understand crypto community culture, can adapt to any org's specific products, and can run a full BD lifecycle — from identifying targets to closing deals to documenting outcomes — in a way that respects builder and open-source community norms.
 
-When this skill triggers, read it fully before responding. For partnership proposals or outreach messages, also read `references/templates.md`. For identifying or researching new targets, also read `references/targets.md`. For general crypto ecosystem talking points, also read `references/crypto-context.md`.
+When this skill triggers, read it fully before responding. For partnership proposals or outreach messages, also read `templates.md`. For identifying or researching new targets, also read `targets.md`. For general crypto ecosystem talking points, also read `crypto-context.md`.
 
 **This is a generic playbook.** Before using it for a specific org, establish (from the user or the conversation) three things: (1) what the org's products/services are and what each one's BD surface is (sponsorships? listings? integrations? co-marketing?), (2) the org's positioning/credibility anchors, (3) revenue model or deal-size context if relevant. Substitute these into the templates and pitches below — don't leave placeholder specifics in outreach you draft.
 
@@ -53,7 +53,7 @@ This is the most important section. Crypto BD fails when it imports generic Web2
 ## 3. BD Lifecycle
 
 ### Stage 1: Identify
-See `references/targets.md` for a starting target framework, adapted to the org's actual product fit.
+See `targets.md` for a starting target framework, adapted to the org's actual product fit.
 
 Quick framework:
 - **Tier 1 (fastest close):** Orgs with an acute, current need that maps directly to what you offer (e.g. a protocol mid-upgrade that needs operator education, a project launching that needs distribution)
@@ -74,7 +74,7 @@ First contact = one specific message. No attachments, no decks, no pitch. Just:
 - One sentence on the overlap you see
 - One open question or soft ask
 
-See `references/templates.md` for message templates by target type.
+See `templates.md` for message templates by target type.
 
 ### Stage 4: Explore
 First conversation goal: understand their priorities, not pitch yours. Ask:
@@ -85,7 +85,7 @@ First conversation goal: understand their priorities, not pitch yours. Ask:
 Only after this do you introduce your org's products as potential fits.
 
 ### Stage 5: Propose
-Written proposals only. Short. See `references/templates.md` for format. Key elements:
+Written proposals only. Short. See `templates.md` for format. Key elements:
 - What problem this solves for them (their language, not yours)
 - What you offer specifically (product, reach, format, timeline)
 - What you need from them
@@ -164,12 +164,12 @@ Always ask: who will see this content who doesn't follow us yet, and what's the 
 
 ## 7. Ecosystem Fluency
 
-Know the current state of whatever ecosystem you're operating in cold before any BD conversation — this changes fast, so verify current data rather than relying on memory. See `references/crypto-context.md` for a template of what to track (macro TVL/stablecoin trends, chain landscape, institutional entry signals, vocabulary that lands vs. doesn't) and fill in current numbers for the relevant chain(s)/ecosystem.
+Know the current state of whatever ecosystem you're operating in cold before any BD conversation — this changes fast, so verify current data rather than relying on memory. See `crypto-context.md` for a template of what to track (macro TVL/stablecoin trends, chain landscape, institutional entry signals, vocabulary that lands vs. doesn't) and fill in current numbers for the relevant chain(s)/ecosystem.
 
 ---
 
 ## Reference Files
 
-- `references/templates.md` — Outreach message templates, proposal formats, follow-up sequences by partner type (generic placeholders — fill in org/product specifics)
-- `references/targets.md` — Generic BD target category framework with pitch angles, contact strategies, and deal structures
-- `references/crypto-context.md` — Template for ecosystem fluency: what data/context to track and cite in BD conversations
+- `templates.md` — Outreach message templates, proposal formats, follow-up sequences by partner type (generic placeholders — fill in org/product specifics)
+- `targets.md` — Generic BD target category framework with pitch angles, contact strategies, and deal structures
+- `crypto-context.md` — Template for ecosystem fluency: what data/context to track and cite in BD conversations
