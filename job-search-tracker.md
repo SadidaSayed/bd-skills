@@ -23,6 +23,10 @@ Format: `Company — Role | status | last_checked | reason`
 - SyntheticFi — Head of Marketing | stale | 2026-08-25 | posted ~1 month ago; related roles are Remote (US) only
 - Prosper Marketplace — VP of Marketing | excluded-giant | 2026-08-25 | mature/large fintech lender, pay band signals giant scale
 - Bounce AI — no Head/VP Marketing opening | n/a | 2026-08-28 | only Associate and VP Sales roles exist
+- Messari — Head of Marketing | excluded-giant | 2026-08-29 | well-established crypto data company, $180-210K comp signals enterprise scale
+- Hyperbolic Labs — Head of Marketing | geo-excluded | 2026-08-29 | San Francisco-tied, not remote-worldwide
+- Cake DeFi — Head of B2B Marketing | geo-excluded | 2026-08-29 | Singapore location, in-office
+- finbots.ai (Accel-funded, fintech-AI) — no Head/VP Marketing opening | n/a | 2026-08-29 | confirmed via Accel job board, no open marketing roles currently
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **StarkWare — Head of Growth Marketing** | $133K-$156K | worldwide remote, cross-verified across 4+ sources | confirmed 2026-08-21 | https://web3.career/head-of-growth-marketing-starkware/104461
