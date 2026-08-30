@@ -27,6 +27,7 @@ Format: `Company — Role | status | last_checked | reason`
 - Hyperbolic Labs — Head of Marketing | geo-excluded | 2026-08-29 | San Francisco-tied, not remote-worldwide
 - Cake DeFi — Head of B2B Marketing | geo-excluded | 2026-08-29 | Singapore location, in-office
 - finbots.ai (Accel-funded, fintech-AI) — no Head/VP Marketing opening | n/a | 2026-08-29 | confirmed via Accel job board, no open marketing roles currently
+- Silvur — Head of Marketing | stale + geo-excluded | 2026-08-30 | posted Dec 9, 2024 (nearly 2 years old); also requires periodic US in-person time
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **StarkWare — Head of Growth Marketing** | $133K-$156K | worldwide remote, cross-verified across 4+ sources | confirmed 2026-08-21 | https://web3.career/head-of-growth-marketing-starkware/104461
