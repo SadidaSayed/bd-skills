@@ -33,6 +33,7 @@ Format: `Company — Role | status | last_checked | reason`
 - **StarkWare — Head of Growth Marketing** | $133K-$156K | worldwide remote, cross-verified across 4+ sources | confirmed 2026-08-21 | https://web3.career/head-of-growth-marketing-starkware/104461
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source | confirmed 2026-08-20 | https://www.etherealize.com/careers/head-of-marketing
 - **Token Metrics — Web3 Head of Marketing and Communications (India-Remote)** | ~$96-150K equivalent | explicitly India-remote listing | date unconfirmed, multi-country template pattern | confirmed 2026-08-21 | https://jobs.lever.co/tokenmetrics/9538df30-9d08-44ad-8046-a0465a1f6dd7
+- **BigStep Technologies — Fractional CMO** | India-based B2B IT/product engineering company (150+ employees), pay not disclosed | remote worldwide, works directly with founders | posted ~2 weeks ago, cross-verified across 3 sources | confirmed 2026-08-31 | https://dailyremote.com/remote-job/fractional-cmo-remote-4953994
 
 ## Policy note (2026-08-28)
 A role found live on a COMPANY'S OWN official careers page (not an aggregator) counts as
