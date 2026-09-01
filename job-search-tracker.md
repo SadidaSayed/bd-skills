@@ -28,10 +28,11 @@ Format: `Company — Role | status | last_checked | reason`
 - Cake DeFi — Head of B2B Marketing | geo-excluded | 2026-08-29 | Singapore location, in-office
 - finbots.ai (Accel-funded, fintech-AI) — no Head/VP Marketing opening | n/a | 2026-08-29 | confirmed via Accel job board, no open marketing roles currently
 - Silvur — Head of Marketing | stale + geo-excluded | 2026-08-30 | posted Dec 9, 2024 (nearly 2 years old); also requires periodic US in-person time
+- StarkWare — Head of Growth Marketing | closed | 2026-09-01 | Multicoin Capital job board confirms "no longer accepting applications" — moved out of standing leads
+- Synapse International — Head of Marketing | stale | 2026-09-01 | recruiting-services company not product company; indexing dates back to Nov 2025
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
-- **StarkWare — Head of Growth Marketing** | $133K-$156K | worldwide remote, cross-verified across 4+ sources | confirmed 2026-08-21 | https://web3.career/head-of-growth-marketing-starkware/104461
-- **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source | confirmed 2026-08-20 | https://www.etherealize.com/careers/head-of-marketing
+- **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-01 | https://www.etherealize.com/careers/head-of-marketing
 - **Token Metrics — Web3 Head of Marketing and Communications (India-Remote)** | ~$96-150K equivalent | explicitly India-remote listing | date unconfirmed, multi-country template pattern | confirmed 2026-08-21 | https://jobs.lever.co/tokenmetrics/9538df30-9d08-44ad-8046-a0465a1f6dd7
 - **BigStep Technologies — Fractional CMO** | India-based B2B IT/product engineering company (150+ employees), pay not disclosed | remote worldwide, works directly with founders | posted ~2 weeks ago, cross-verified across 3 sources | confirmed 2026-08-31 | https://dailyremote.com/remote-job/fractional-cmo-remote-4953994
 
