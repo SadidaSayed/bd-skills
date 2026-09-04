@@ -30,6 +30,8 @@ Format: `Company — Role | status | last_checked | reason`
 - Silvur — Head of Marketing | stale + geo-excluded | 2026-08-30 | posted Dec 9, 2024 (nearly 2 years old); also requires periodic US in-person time
 - StarkWare — Head of Growth Marketing | closed | 2026-09-01 | Multicoin Capital job board confirms "no longer accepting applications" — moved out of standing leads
 - Synapse International — Head of Marketing | stale | 2026-09-01 | recruiting-services company not product company; indexing dates back to Nov 2025
+- SentiLink — Director of Growth Marketing (B2B) | geo-excluded + possibly closing | 2026-09-04 | confirmed "Remote USA" only; also removed from at least one job board
+- Chingari/GARI — Head of Marketing | no opening found | 2026-09-04 | careers page and job boards show no current matching listing
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-01 | https://www.etherealize.com/careers/head-of-marketing
