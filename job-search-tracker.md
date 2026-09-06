@@ -33,6 +33,7 @@ Format: `Company — Role | status | last_checked | reason`
 - SentiLink — Director of Growth Marketing (B2B) | geo-excluded + possibly closing | 2026-09-04 | confirmed "Remote USA" only; also removed from at least one job board
 - Chingari/GARI — Head of Marketing | no opening found | 2026-09-04 | careers page and job boards show no current matching listing
 - Keyrock — Head of Marketing (Director) | conflicting dates, excluded | 2026-09-05 | one source says 15 days ago, another says originally posted July 3, 2026 — treated as unconfirmed per policy
+- EXMO — CMO / Head of Growth | stale (likely) | 2026-09-06 | originally surfaced late July 2026 (~6 weeks ago), company job index still dated "Jul 2026", no fresh confirmation found
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-01 | https://www.etherealize.com/careers/head-of-marketing
