@@ -35,6 +35,8 @@ Format: `Company — Role | status | last_checked | reason`
 - Keyrock — Head of Marketing (Director) | conflicting dates, excluded | 2026-09-05 | one source says 15 days ago, another says originally posted July 3, 2026 — treated as unconfirmed per policy
 - EXMO — CMO / Head of Growth | stale (likely) | 2026-09-06 | originally surfaced late July 2026 (~6 weeks ago), company job index still dated "Jul 2026", no fresh confirmation found
 - P2P.org — Head of Marketing | closed + stale + excluded-giant | 2026-09-08 | confirmed no longer available; posted July 16 2026; largest institutional staking provider ($10B+ TVL), likely too large anyway
+- "AI-Driven Growth Marketing Lead for Fintech" (JobLeads) | geo-excluded | 2026-09-09 | explicitly "United States" in title
+- Bankrate — AI-native creative leader | excluded-giant | 2026-09-09 | owned by Red Ventures, established media/fintech brand
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-01 | https://www.etherealize.com/careers/head-of-marketing
