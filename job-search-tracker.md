@@ -37,11 +37,18 @@ Format: `Company — Role | status | last_checked | reason`
 - P2P.org — Head of Marketing | closed + stale + excluded-giant | 2026-09-08 | confirmed no longer available; posted July 16 2026; largest institutional staking provider ($10B+ TVL), likely too large anyway
 - "AI-Driven Growth Marketing Lead for Fintech" (JobLeads) | geo-excluded | 2026-09-09 | explicitly "United States" in title
 - Bankrate — AI-native creative leader | excluded-giant | 2026-09-09 | owned by Red Ventures, established media/fintech brand
+- Digital Finance — Head of Marketing (Fintech/Digital Assets) | stale | 2026-09-10 | posted May 12, 2026 (~4 months old), no fresher confirmation found
+- Dakota — Head of Marketing (Remote Fintech Growth, stablecoin infra) | geo-excluded | 2026-09-10 | small/good-fit company otherwise ($16.5M raised, works w/ CEO) but explicitly hires only within US/UK/Spain/Portugal at this time — not India
+- Jenius Bank — Head of Marketing | excluded-giant + geo-excluded | 2026-09-10 | backed by SMBC Group (major Japanese banking conglomerate); listed remote roles tied to specific US states, suggests domestic-only hiring
+- IgniteTech (via Crossover) — AI-First VP of Marketing | unconfirmed-open | 2026-09-10 | search signals indicate no current public opening despite live listing page; Crossover/IgniteTech postings are frequently evergreen/reposted without reliable dates — treat as unconfirmed per policy
+- BigStep Technologies — Fractional CMO | closed (moved from standing) | 2026-09-10 | 10-day re-check: role no longer appears on BigStep's own careers portal (bigsteptech.freshteam.com — only engineering roles listed now); aggregator source confirmed original posting was May 4, 2026, well past freshness window
+- Miletus Finance — Web3 CMO/Co-Founder | excluded-unpaid | 2026-09-10 | equity-only co-founder role, not a paid engagement — fails "well-paying" fractional bar
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-01 | https://www.etherealize.com/careers/head-of-marketing
 - **Token Metrics — Web3 Head of Marketing and Communications (India-Remote)** | ~$96-150K equivalent | explicitly India-remote listing | date unconfirmed, multi-country template pattern; re-confirmed still open and accepting applications 2026-09-02 | https://jobs.lever.co/tokenmetrics/9538df30-9d08-44ad-8046-a0465a1f6dd7
-- **BigStep Technologies — Fractional CMO** | India-based B2B IT/product engineering company (150+ employees), pay not disclosed | remote worldwide, works directly with founders | posted ~2 weeks ago, cross-verified across 3 sources | confirmed 2026-08-31 | https://dailyremote.com/remote-job/fractional-cmo-remote-4953994
+- **Otto (stealth-mode neobank on Ethereum) — Senior Growth Marketing Lead** | small/stealth crypto-fintech startup, high-ownership full-funnel growth role, remote | no explicit geo restriction found across sources; date unconfirmed but listing corroborated across web3.career + Wellfound company profile (stealth-mode explains lack of own-domain careers page) | found 2026-09-10 | https://web3.career/growth-marketing-lead-otto/147209 (also listed: https://wellfound.com/company/otto-stealth-mode/jobs)
+- **Glopal — Head of Growth Marketing (B2B SaaS)** | Paris-based international e-commerce/localization scale-up, remote | posted ~3 weeks ago per Jobright, cross-verified across startup.jobs, Jobgether, and Welcome to the Jungle listings; no explicit geo restriction found | found 2026-09-10 | https://startup.jobs/head-of-growth-marketing-b2b-saas-remote-glopal-7595192
 
 ## Policy note (2026-08-28)
 A role found live on a COMPANY'S OWN official careers page (not an aggregator) counts as
