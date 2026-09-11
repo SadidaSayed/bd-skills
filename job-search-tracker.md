@@ -43,6 +43,9 @@ Format: `Company — Role | status | last_checked | reason`
 - IgniteTech (via Crossover) — AI-First VP of Marketing | unconfirmed-open | 2026-09-10 | search signals indicate no current public opening despite live listing page; Crossover/IgniteTech postings are frequently evergreen/reposted without reliable dates — treat as unconfirmed per policy
 - BigStep Technologies — Fractional CMO | closed (moved from standing) | 2026-09-10 | 10-day re-check: role no longer appears on BigStep's own careers portal (bigsteptech.freshteam.com — only engineering roles listed now); aggregator source confirmed original posting was May 4, 2026, well past freshness window
 - Miletus Finance — Web3 CMO/Co-Founder | excluded-unpaid | 2026-09-10 | equity-only co-founder role, not a paid engagement — fails "well-paying" fractional bar
+- Upbound — Head of Growth Marketing (Crossplane/infra platform) | geo-excluded | 2026-09-11 | Series B ($69M raised, good size fit) but listing explicitly "North America - Remote" / Seattle — not India
+- Storm2 (payments co, $100M funding) — Head of Marketing | stale | 2026-09-11 | recruiter-posted listing traced back to Feb 2024 origin; evergreen repost, not fresh
+- Wealth.com — Head of Marketing | geo-likely-excluded, unconfirmed | 2026-09-11 | US advisor-facing estate-planning platform, posted ~18 days ago ($145-185K); could not confirm non-US eligibility — recheck if she wants it pursued anyway
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-01 | https://www.etherealize.com/careers/head-of-marketing
