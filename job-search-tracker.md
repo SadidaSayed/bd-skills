@@ -51,6 +51,9 @@ Format: `Company — Role | status | last_checked | reason`
 - Mentor Collective — VP of Marketing | stale | 2026-09-12 | original posting dated Sep 13, 2025 — over a year old despite still circulating on job boards; also off-vertical (higher-ed mentorship platform)
 - Klaimee (YC, AI-agent insurance) — Growth Marketer (Founding) | no Head/VP-level opening | 2026-09-12 | only a founding IC-level growth marketer role exists, not a leadership title
 - ComplyAuto (regtech) / Thimble (insurtech) — no Head/VP Marketing opening found | n/a | 2026-09-12 | checked both companies' job boards directly, no current marketing-leadership listing
+- Runway ML — Director/VP of Product Marketing | stale + geo-excluded | 2026-09-13 | posted July 9, 2026 (~2 months old); listing explicitly "Remote, United States"
+- Bjak (SE Asia insurtech, 8M+ users) — VP/Head of Marketing (UK) | geo-excluded | 2026-09-13 | role explicitly "based in London" with hybrid flexibility, not remote-worldwide
+- Mentor Collective, ShopMy, Klaimee-adjacent creator-economy roundup (Nintendo/SKIMS/Substack/Patreon/Credit Karma) | excluded-giant or no fresh opening | 2026-09-13 | all either mega-scale brands or listings with no confirmed current Head/VP-level opening; ShopMy's own VP Marketing posting confirmed removed as of Jan 2025
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-12 | https://www.etherealize.com/careers/head-of-marketing
