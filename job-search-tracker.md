@@ -54,6 +54,9 @@ Format: `Company — Role | status | last_checked | reason`
 - Runway ML — Director/VP of Product Marketing | stale + geo-excluded | 2026-09-13 | posted July 9, 2026 (~2 months old); listing explicitly "Remote, United States"
 - Bjak (SE Asia insurtech, 8M+ users) — VP/Head of Marketing (UK) | geo-excluded | 2026-09-13 | role explicitly "based in London" with hybrid flexibility, not remote-worldwide
 - Mentor Collective, ShopMy, Klaimee-adjacent creator-economy roundup (Nintendo/SKIMS/Substack/Patreon/Credit Karma) | excluded-giant or no fresh opening | 2026-09-13 | all either mega-scale brands or listings with no confirmed current Head/VP-level opening; ShopMy's own VP Marketing posting confirmed removed as of Jan 2025
+- Cyclops (stablecoin payments platform, $20M raised, good size fit otherwise) — no Head/VP Marketing opening | n/a | 2026-09-14 | only a Marketing Operations & Data Manager role confirmed open on their own careers page — not a leadership-level title
+- Payoneer — stablecoin GTM Lead | excluded-giant | 2026-09-14 | large established public fintech company
+- Fractional AI (Wellfound) — no marketing opening | n/a | 2026-09-14 | company's only current listing is a 7+ yr engineering role, not marketing
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-12 | https://www.etherealize.com/careers/head-of-marketing
