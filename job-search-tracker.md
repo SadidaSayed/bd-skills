@@ -57,6 +57,10 @@ Format: `Company — Role | status | last_checked | reason`
 - Cyclops (stablecoin payments platform, $20M raised, good size fit otherwise) — no Head/VP Marketing opening | n/a | 2026-09-14 | only a Marketing Operations & Data Manager role confirmed open on their own careers page — not a leadership-level title
 - Payoneer — stablecoin GTM Lead | excluded-giant | 2026-09-14 | large established public fintech company
 - Fractional AI (Wellfound) — no marketing opening | n/a | 2026-09-14 | company's only current listing is a 7+ yr engineering role, not marketing
+- Glassnode — CMO/Head of Marketing | closed | 2026-09-15 | Glassdoor confirms no open positions at Glassnode currently; would otherwise have fit (CET/EST timezone workable from Dubai)
+- Guidewheel — Head of Marketing (FactoryOps, B2B SaaS/industrial IoT) | closed | 2026-09-15 | good fit otherwise (100% remote, no geo restriction, well-funded, posted ~15 days ago) but Breakthrough Energy Ventures board confirms "no longer accepting applications"
+- saas.group / Seobility — Head of Marketing | stale | 2026-09-15 | posted July 7, 2026 (~10 weeks old); otherwise workable CET-overlap timezone
+- HireBoost — Head of Marketing | unconfirmed-date, excluded | 2026-09-15 | aggregator-only (Himalayas), no posting date found or cross-verified; also off-vertical (recruiting/HR tech)
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-12 | https://www.etherealize.com/careers/head-of-marketing
