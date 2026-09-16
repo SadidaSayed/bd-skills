@@ -7,7 +7,7 @@ finding NET NEW companies/roles not already in this list.
 Format: `Company — Role | status | last_checked | reason`
 
 ## Confirmed stale / closed / excluded (do not re-check unless 10+ days old)
-- Alias Network — Head of Growth/CMO | unconfirmed-date, repeat | 2026-08-28 | never got a confirmed posting date despite many checks
+- Alias Network — Head of Growth/CMO | unconfirmed-date, repeat | 2026-09-16 | 10-day re-check: notably based in Dubai (her home base) with strong pay ($180K→$360K + token, $15K/mo retainer from day one) — genuinely tempting, but still only found via Wellfound aggregator with no posting date and no company-owned careers page to cross-verify against; stays excluded per policy until a date surfaces
 - Hyphenconnect — Head of Growth & Marketing | stale | 2026-08-28 | resurfaces but no fresh confirmation
 - Eight Forces — Head of Marketing/Growth | stale | 2026-08-26 | company job index last dated ~May 2025
 - Fitmint — Head of Marketing | closed | 2026-08-24 | confirmed no longer accepting applications
@@ -33,7 +33,7 @@ Format: `Company — Role | status | last_checked | reason`
 - SentiLink — Director of Growth Marketing (B2B) | geo-excluded + possibly closing | 2026-09-04 | confirmed "Remote USA" only; also removed from at least one job board
 - Chingari/GARI — Head of Marketing | no opening found | 2026-09-04 | careers page and job boards show no current matching listing
 - Keyrock — Head of Marketing (Director) | conflicting dates, excluded | 2026-09-05 | one source says 15 days ago, another says originally posted July 3, 2026 — treated as unconfirmed per policy
-- EXMO — CMO / Head of Growth | stale (likely) | 2026-09-06 | originally surfaced late July 2026 (~6 weeks ago), company job index still dated "Jul 2026", no fresh confirmation found
+- EXMO — CMO / Head of Growth | closed, confirmed | 2026-09-16 | 10-day re-check: web3.career listing now explicitly shows closed/no longer accepting applications
 - P2P.org — Head of Marketing | closed + stale + excluded-giant | 2026-09-08 | confirmed no longer available; posted July 16 2026; largest institutional staking provider ($10B+ TVL), likely too large anyway
 - "AI-Driven Growth Marketing Lead for Fintech" (JobLeads) | geo-excluded | 2026-09-09 | explicitly "United States" in title
 - Bankrate — AI-native creative leader | excluded-giant | 2026-09-09 | owned by Red Ventures, established media/fintech brand
@@ -61,6 +61,9 @@ Format: `Company — Role | status | last_checked | reason`
 - Guidewheel — Head of Marketing (FactoryOps, B2B SaaS/industrial IoT) | closed | 2026-09-15 | good fit otherwise (100% remote, no geo restriction, well-funded, posted ~15 days ago) but Breakthrough Energy Ventures board confirms "no longer accepting applications"
 - saas.group / Seobility — Head of Marketing | stale | 2026-09-15 | posted July 7, 2026 (~10 weeks old); otherwise workable CET-overlap timezone
 - HireBoost — Head of Marketing | unconfirmed-date, excluded | 2026-09-15 | aggregator-only (Himalayas), no posting date found or cross-verified; also off-vertical (recruiting/HR tech)
+- GoFractional — Fractional Marketing Director (Fintech, B2B SaaS), posted 2026-09-15 (fresh) | geo-excluded | 2026-09-16 | otherwise excellent fit (well-paying, fresh) but explicitly "U.S. East Coast availability, New York state preferred"
+- GoFractional/Farlinium — Fractional Manager, B2B Growth Marketing (client: Rippling) | geo-excluded | 2026-09-16 | "remote-first within the United States"
+- Hotel Engine ("Engine") — Growth Marketing Lead, Fintech (Engine X credit card) | stale | 2026-09-16 | posted June 27, 2026, ~3 months old
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-12 | https://www.etherealize.com/careers/head-of-marketing
