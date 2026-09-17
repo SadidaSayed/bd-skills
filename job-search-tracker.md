@@ -32,7 +32,6 @@ Format: `Company — Role | status | last_checked | reason`
 - Synapse International — Head of Marketing | stale | 2026-09-01 | recruiting-services company not product company; indexing dates back to Nov 2025
 - SentiLink — Director of Growth Marketing (B2B) | geo-excluded + possibly closing | 2026-09-04 | confirmed "Remote USA" only; also removed from at least one job board
 - Chingari/GARI — Head of Marketing | no opening found | 2026-09-04 | careers page and job boards show no current matching listing
-- Keyrock — Head of Marketing (Director) | conflicting dates, excluded | 2026-09-05 | one source says 15 days ago, another says originally posted July 3, 2026 — treated as unconfirmed per policy
 - EXMO — CMO / Head of Growth | closed, confirmed | 2026-09-16 | 10-day re-check: web3.career listing now explicitly shows closed/no longer accepting applications
 - P2P.org — Head of Marketing | closed + stale + excluded-giant | 2026-09-08 | confirmed no longer available; posted July 16 2026; largest institutional staking provider ($10B+ TVL), likely too large anyway
 - "AI-Driven Growth Marketing Lead for Fintech" (JobLeads) | geo-excluded | 2026-09-09 | explicitly "United States" in title
@@ -64,12 +63,15 @@ Format: `Company — Role | status | last_checked | reason`
 - GoFractional — Fractional Marketing Director (Fintech, B2B SaaS), posted 2026-09-15 (fresh) | geo-excluded | 2026-09-16 | otherwise excellent fit (well-paying, fresh) but explicitly "U.S. East Coast availability, New York state preferred"
 - GoFractional/Farlinium — Fractional Manager, B2B Growth Marketing (client: Rippling) | geo-excluded | 2026-09-16 | "remote-first within the United States"
 - Hotel Engine ("Engine") — Growth Marketing Lead, Fintech (Engine X credit card) | stale | 2026-09-16 | posted June 27, 2026, ~3 months old
+- Airwallex — Head of Product Marketing (Payments/Platform) | excluded-giant | 2026-09-17 | $11B valuation, 2,500+ employees
+- MetaSearch Global — Head of Marketing (Remote, Worldwide) | geo-unconfirmed, excluded | 2026-09-17 | LinkedIn posting is dated (originally surfaced ~2025), no fresh re-post found; despite "Worldwide" in title, staleness disqualifies
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO | date unconfirmed but live on primary source, re-confirmed still live 2026-09-12 | https://www.etherealize.com/careers/head-of-marketing
 - **Token Metrics — Web3 Head of Marketing and Communications (India-Remote)** | ~$96-150K equivalent | explicitly India-remote listing | date unconfirmed, multi-country template pattern; re-confirmed still open and accepting applications 2026-09-12 | https://jobs.lever.co/tokenmetrics/9538df30-9d08-44ad-8046-a0465a1f6dd7
 - **Otto (stealth-mode neobank on Ethereum) — Senior Growth Marketing Lead** | small/stealth crypto-fintech startup, high-ownership full-funnel growth role, remote | no explicit geo restriction found across sources; date unconfirmed but listing corroborated across web3.career + Wellfound company profile (stealth-mode explains lack of own-domain careers page) | found 2026-09-10 | https://web3.career/growth-marketing-lead-otto/147209 (also listed: https://wellfound.com/company/otto-stealth-mode/jobs)
 - **Glopal — Head of Growth Marketing (B2B SaaS)** | Paris-based international e-commerce/localization scale-up, remote | posted ~3 weeks ago per Jobright, cross-verified across startup.jobs, Jobgether, and Welcome to the Jungle listings; no explicit geo restriction found | found 2026-09-10 | https://startup.jobs/head-of-growth-marketing-b2b-saas-remote-glopal-7595192
+- **Keyrock — Head of Marketing (Director)** | ~$175-220K base + variable, crypto market maker (200+ people, offices EU/UK/US/Switzerland, "global remote-first across 40+ nationalities") transforming from crypto-native to institutional brand; reports to CCO | found live on Keyrock's own careers page (keyrock.com/careers) — counts as confirmed-open per policy exception; date unconfirmed but consistently listed across 6+ job boards with no closure signal (previously excluded 2026-09-05 for conflicting dates — resolved via own-page exception on 10-day re-check) | re-confirmed 2026-09-17 | https://keyrock.com/careers/ (also: https://jobs.ashbyhq.com/Keyrock/d8f0c7ad-a6e5-45b3-913a-430eb4a21f4f/application)
 
 ## Policy note (2026-08-28)
 A role found live on a COMPANY'S OWN official careers page (not an aggregator) counts as
