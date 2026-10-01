@@ -67,6 +67,8 @@ Format: `Company — Role | status | last_checked | reason`
 - MetaSearch Global — Head of Marketing (Remote, Worldwide) | geo-unconfirmed, excluded | 2026-09-17 | LinkedIn posting is dated (originally surfaced ~2025), no fresh re-post found; despite "Worldwide" in title, staleness disqualifies
 - Glopal — Head of Growth Marketing (B2B SaaS) | closed/expired, moved from standing | 2026-09-30 | 13-day re-check: Welcome to the Jungle listing shows application deadline of March 2, 2026 — long since passed; no re-post found
 - o1Labs (Mina Protocol) — VP of Marketing | stale | 2026-09-30 | posted Feb 14, 2025 — over 18 months old
+- CreativeLens.ai — Founding Growth & Partnerships Lead | wrong seniority/title | 2026-10-01 | IC/founding sales-growth hybrid role, not a Head/VP/Director marketing title; also requires meaningful US business-hours overlap
+- Xtra (Dubai) — VP of Marketing / Global Head of Marketing | unconfirmed, excluded | 2026-10-01 | could not confirm company identity, vertical, size, or funding via search — too ambiguous to include without verification
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
