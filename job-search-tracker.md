@@ -73,6 +73,11 @@ Format: `Company — Role | status | last_checked | reason`
 - CoinTracker — Growth Marketing Lead | geo-excluded | 2026-10-02 | otherwise strong fit ($1.3B valuation crypto fintech, 51-200 employees, posted 6 days ago, $160-188K) but explicitly "United States & Canada" only
 - Crossmint — Head of Marketing (stablecoin infra) | geo-excluded | 2026-10-02 | explicitly NYC/Miami hybrid
 - Phantom — VP of Marketing | geo-excluded | 2026-10-02 | explicitly "Remote - US"
+- Gremlin — Director of Growth Marketing (B2B SaaS) | geo-excluded | 2026-10-03 | explicitly "remote in the U.S."
+- Apheris (AI drug discovery, Berlin, 11-50 employees) — Director of Marketing | stale + geo-tight | 2026-10-03 | posted Aug 13 2026 (~7 weeks old); also "Remote (UTC +/- 2 hrs)" — tight overlap from Dubai (UTC+4)
+- ClasSync AI — Chief Marketing Officer | stale + low-pay | 2026-10-03 | posted ~4 months ago; $30-45K cash is at/below the pay floor, heavy equity-only upside (1-10 employee startup)
+- Foodz Lizts — VP of Marketing & Sales | geo-excluded | 2026-10-03 | "remote-only" but explicitly United States
+- Parker (AI ad marketing) — VP Marketing | geo-excluded | 2026-10-03 | explicitly remote Canada only
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
