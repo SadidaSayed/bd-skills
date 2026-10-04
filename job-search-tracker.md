@@ -78,6 +78,11 @@ Format: `Company — Role | status | last_checked | reason`
 - ClasSync AI — Chief Marketing Officer | stale + low-pay | 2026-10-03 | posted ~4 months ago; $30-45K cash is at/below the pay floor, heavy equity-only upside (1-10 employee startup)
 - Foodz Lizts — VP of Marketing & Sales | geo-excluded | 2026-10-03 | "remote-only" but explicitly United States
 - Parker (AI ad marketing) — VP Marketing | geo-excluded | 2026-10-03 | explicitly remote Canada only
+- Celestia Labs — Head of Marketing | stale + geo-tight | 2026-10-04 | posted March 1 2026 (~7 months old); also requires EST/European timezone basing
+- Anagram (web3 security) — Head of Product Marketing | stale | 2026-10-04 | posted ~1 year ago
+- Happy Money — Head of Lifecycle Marketing | geo-excluded | 2026-10-04 | explicitly "Remote, United States only"
+- Gelato Network — Head of Product Marketing | stale | 2026-10-04 | posted May/July 2025 — well over a year old
+- OP Labs (Optimism) — Head of Marketing (Web3 & Enterprise Growth) | geo-likely-excluded | 2026-10-04 | posted 21 days ago (fresh, good size ~69 employees) but listing ties to "Kenmore, NY" with NYC office as "center of gravity" — leans US-based rather than globally remote
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
