@@ -7,7 +7,7 @@ finding NET NEW companies/roles not already in this list.
 Format: `Company — Role | status | last_checked | reason`
 
 ## Confirmed stale / closed / excluded (do not re-check unless 10+ days old)
-- Alias Network — Head of Growth/CMO | unconfirmed-date, repeat | 2026-09-16 | 10-day re-check: notably based in Dubai (her home base) with strong pay ($180K→$360K + token, $15K/mo retainer from day one) — genuinely tempting, but still only found via Wellfound aggregator with no posting date and no company-owned careers page to cross-verify against; stays excluded per policy until a date surfaces
+- Alias Network — Head of Growth/CMO | unconfirmed-date, repeat | 2026-10-05 | 10-day re-check again: same listing, still Dubai-based with strong pay ($180K→$360K + token) but still only on Wellfound with no date and no company-owned careers page found — stays excluded per policy
 - Hyphenconnect — Head of Growth & Marketing | stale | 2026-08-28 | resurfaces but no fresh confirmation
 - Eight Forces — Head of Marketing/Growth | stale | 2026-08-26 | company job index last dated ~May 2025
 - Fitmint — Head of Marketing | closed | 2026-08-24 | confirmed no longer accepting applications
@@ -83,6 +83,8 @@ Format: `Company — Role | status | last_checked | reason`
 - Happy Money — Head of Lifecycle Marketing | geo-excluded | 2026-10-04 | explicitly "Remote, United States only"
 - Gelato Network — Head of Product Marketing | stale | 2026-10-04 | posted May/July 2025 — well over a year old
 - OP Labs (Optimism) — Head of Marketing (Web3 & Enterprise Growth) | geo-likely-excluded | 2026-10-04 | posted 21 days ago (fresh, good size ~69 employees) but listing ties to "Kenmore, NY" with NYC office as "center of gravity" — leans US-based rather than globally remote
+- ZeroTier — VP of Marketing | stale | 2026-10-05 | posted July 1 2026, ~3 months old
+- Deepgram — VP of Marketing | excluded, unconfirmed+size | 2026-10-05 | $1.3B valuation/310+ employees (borderline giant); no actual VP Marketing opening confirmed — company already has a sitting CMO
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
