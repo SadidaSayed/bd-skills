@@ -85,6 +85,9 @@ Format: `Company — Role | status | last_checked | reason`
 - OP Labs (Optimism) — Head of Marketing (Web3 & Enterprise Growth) | geo-likely-excluded | 2026-10-04 | posted 21 days ago (fresh, good size ~69 employees) but listing ties to "Kenmore, NY" with NYC office as "center of gravity" — leans US-based rather than globally remote
 - ZeroTier — VP of Marketing | stale | 2026-10-05 | posted July 1 2026, ~3 months old
 - Deepgram — VP of Marketing | excluded, unconfirmed+size | 2026-10-05 | $1.3B valuation/310+ employees (borderline giant); no actual VP Marketing opening confirmed — company already has a sitting CMO
+- Later (influencer marketing platform) — Director, Creator Growth | excluded-giant | 2026-10-06 | 1,700+ employees, serves Nike/Unilever/Wayfair-scale enterprise clients
+- Impossible Cloud — Web3 CMO | stale | 2026-10-06 | posted Dec 29, 2024 — nearly 2 years old; otherwise good fit (81 employees, "Anywhere" location)
+- Tribute (Telegram creator-monetization platform) — Web3 CMO | unconfirmed-date, excluded | 2026-10-06 | appealing otherwise — creator-economy vertical, remote hubs include Dubai, 60k+ creators on platform — but only found via a single web3.career listing with no date and no company-owned careers page to cross-verify; recheck if a second source surfaces
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
