@@ -88,6 +88,9 @@ Format: `Company — Role | status | last_checked | reason`
 - Later (influencer marketing platform) — Director, Creator Growth | excluded-giant | 2026-10-06 | 1,700+ employees, serves Nike/Unilever/Wayfair-scale enterprise clients
 - Impossible Cloud — Web3 CMO | stale | 2026-10-06 | posted Dec 29, 2024 — nearly 2 years old; otherwise good fit (81 employees, "Anywhere" location)
 - Tribute (Telegram creator-monetization platform) — Web3 CMO | unconfirmed-date, excluded | 2026-10-06 | appealing otherwise — creator-economy vertical, remote hubs include Dubai, 60k+ creators on platform — but only found via a single web3.career listing with no date and no company-owned careers page to cross-verify; recheck if a second source surfaces
+- ZRG (recruiter) — CMO for high-growth digital bank | geo-excluded | 2026-10-07 | fresh (posted Sep 24) but explicitly "open to candidates in USA"
+- FuseAI (YC W25) — Head of Growth Marketing | geo-excluded | 2026-10-07 | explicitly "US citizen/visa only"
+- Zest AI (AI lending, 233 employees) — Director of Growth | unconfirmed-opening | 2026-10-07 | could not confirm an actual current listing exists for this title
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
