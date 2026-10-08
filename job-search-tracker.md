@@ -91,6 +91,9 @@ Format: `Company — Role | status | last_checked | reason`
 - ZRG (recruiter) — CMO for high-growth digital bank | geo-excluded | 2026-10-07 | fresh (posted Sep 24) but explicitly "open to candidates in USA"
 - FuseAI (YC W25) — Head of Growth Marketing | geo-excluded | 2026-10-07 | explicitly "US citizen/visa only"
 - Zest AI (AI lending, 233 employees) — Director of Growth | unconfirmed-opening | 2026-10-07 | could not confirm an actual current listing exists for this title
+- AML/KYC/RegTech/IDV (unnamed co, DailyRemote/ZipRecruiter) — Head of Marketing | geo-excluded + stale | 2026-10-08 | San Francisco/US-tied, listing ~1 month+ old
+- Telegraph — Web3 Chief Growth Officer/Head of Growth | stale | 2026-10-08 | posting ~49 days old, listed validity date appears to have passed
+- Fractional Jobs — Chief Marketing Officer at Web3/DeFi startup (crypto investing app) | stale | 2026-10-08 | listing dated 7/1/2024 — over 2 years old despite resurfacing in search
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
