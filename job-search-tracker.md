@@ -94,6 +94,9 @@ Format: `Company — Role | status | last_checked | reason`
 - AML/KYC/RegTech/IDV (unnamed co, DailyRemote/ZipRecruiter) — Head of Marketing | geo-excluded + stale | 2026-10-08 | San Francisco/US-tied, listing ~1 month+ old
 - Telegraph — Web3 Chief Growth Officer/Head of Growth | stale | 2026-10-08 | posting ~49 days old, listed validity date appears to have passed
 - Fractional Jobs — Chief Marketing Officer at Web3/DeFi startup (crypto investing app) | stale | 2026-10-08 | listing dated 7/1/2024 — over 2 years old despite resurfacing in search
+- BM Digital — Head of Growth (Meta/DTC paid-media agency powered by "Meteoric AI") | unconfirmed-date + off-vertical | 2026-10-09 | conflicting posting dates across sources (April vs June 2026); also a specialized Meta-ads scaling role for DTC e-commerce clients, not a vertical/skill match
+- Receiptor AI — Founding Growth Lead | stale/expired | 2026-10-09 | listing's own stated validThrough date was March 31, 2026 — already lapsed
+- Saltbox — Director of Growth (AI & GTM) | stale, likely closed | 2026-10-09 | related listing marked "no longer available"; age signals ~250+ days old
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Etherealize — Head of Marketing** | found on company's own official careers page, reports to CEO, $250-325K base + equity | NYC preferred but explicitly "remote for the right candidate" | date unconfirmed but live on primary source, re-confirmed still live 2026-09-30 | https://www.etherealize.com/careers/head-of-marketing
