@@ -104,6 +104,11 @@ Format: `Company — Role | status | last_checked | reason`
 - Writesonic (YC, AI GEO/AEO platform, 119 employees) — Head of Growth Marketing | stale, excluded | 2026-10-11 | appealing otherwise (explicitly India-remote variant exists on Torre/Workable/Foundit, $120-250K, AI+B2B SaaS vertical) but a Himalayas copy shows the listing's deadline as Mar 19 2026 — already passed; multi-country template pattern (US/UK/Germany/India copies) similar to other evergreen reposts seen before; recheck if a fresh single-country posting surfaces
 - ZRG digital-bank CMO, Remote People PLG B2B SaaS Head of Growth, Svix/StackAI/Take2.ai Head of Growth | geo-excluded or stale | 2026-10-11 | all explicitly US/UK/Europe-tied or 1+ year old
 - Built In fintech "Head of Marketing (B2B)" ($260-275K), PayNearMe Director of Product Marketing | geo-excluded | 2026-10-12 | both explicitly "Remote, United States"
+- Teilur (fintech/crypto) — Head of Marketing | geo-excluded | 2026-10-13 | fresh (6 days) but explicitly US-only, NY-leaning
+- Noma, Level AI, OpenArt AI — Head of Product Marketing (AI) | geo-excluded | 2026-10-13 | all explicitly US-tied or hybrid-onsite
+- Symbiotic — Head of DeFi | wrong-function | 2026-10-13 | partnerships/BD role, not a marketing title
+- Monad Foundation — DeFi Growth Lead/Head of DeFi | stale | 2026-10-13 | ~4+ months old, also US-only
+- swivr — Growth & Community Lead | wrong-seniority | 2026-10-13 | "Everywhere" remote and small team (good signals) but Lead-level IC title and $40-90K pay, not a Head/VP/Director match
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Otto (stealth-mode neobank on Ethereum) — Senior Growth Marketing Lead** | small/stealth crypto-fintech startup, high-ownership full-funnel growth role, remote | no explicit geo restriction found across sources; no closure signal found on 10-day re-check, though no fresh re-confirmation either | re-checked 2026-10-10 (inconclusive — still showing, not confirmed closed) | https://web3.career/growth-marketing-lead-otto/147209 (also listed: https://wellfound.com/company/otto-stealth-mode/jobs)
