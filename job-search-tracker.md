@@ -109,6 +109,10 @@ Format: `Company — Role | status | last_checked | reason`
 - Symbiotic — Head of DeFi | wrong-function | 2026-10-13 | partnerships/BD role, not a marketing title
 - Monad Foundation — DeFi Growth Lead/Head of DeFi | stale | 2026-10-13 | ~4+ months old, also US-only
 - swivr — Growth & Community Lead | wrong-seniority | 2026-10-13 | "Everywhere" remote and small team (good signals) but Lead-level IC title and $40-90K pay, not a Head/VP/Director match
+- EverAI — Head of Growth (Remote - Worldwide) | closed | 2026-10-14 | listing's own page says the job was removed in July 2025
+- QuestDB, WeScale.ai — Head of Growth | geo-excluded / off-vertical | 2026-10-14 | QuestDB is US/UK-tied; WeScale.ai is EdTech, US-only
+- Kit (formerly ConvertKit, creator-economy email platform) — Director/Sr. Director of Marketing | closed/stale across all copies | 2026-10-14 | every listing found (Built In, Remotive, Welcome to the Jungle, NoDesk) is marked removed/archived/expired, dating back to 2025
+- Truvity (regtech/legaltech) — Head of Product | wrong-function | 2026-10-14 | product role, not marketing; also on-site Amsterdam
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Otto (stealth-mode neobank on Ethereum) — Senior Growth Marketing Lead** | small/stealth crypto-fintech startup, high-ownership full-funnel growth role, remote | no explicit geo restriction found across sources; no closure signal found on 10-day re-check, though no fresh re-confirmation either | re-checked 2026-10-10 (inconclusive — still showing, not confirmed closed) | https://web3.career/growth-marketing-lead-otto/147209 (also listed: https://wellfound.com/company/otto-stealth-mode/jobs)
