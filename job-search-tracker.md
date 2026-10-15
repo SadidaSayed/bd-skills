@@ -113,6 +113,8 @@ Format: `Company — Role | status | last_checked | reason`
 - QuestDB, WeScale.ai — Head of Growth | geo-excluded / off-vertical | 2026-10-14 | QuestDB is US/UK-tied; WeScale.ai is EdTech, US-only
 - Kit (formerly ConvertKit, creator-economy email platform) — Director/Sr. Director of Marketing | closed/stale across all copies | 2026-10-14 | every listing found (Built In, Remotive, Welcome to the Jungle, NoDesk) is marked removed/archived/expired, dating back to 2025
 - Truvity (regtech/legaltech) — Head of Product | wrong-function | 2026-10-14 | product role, not marketing; also on-site Amsterdam
+- Remote People (confidential "digital-first professional services" client) — Head of Marketing (SEO/AI Search/Growth) | stale | 2026-10-15 | age metadata points to ~late July 2026 origin, well past freshness window; employer also anonymous/unconfirmable
+- Jito Foundation — Growth Marketing Lead | unconfirmed-geo + wrong-seniority | 2026-10-15 | conflicting location (Western Europe vs North America across sources); also "Lead" title, not Head/Director/VP
 
 ## Standing leads still worth checking directly (not re-verified daily, surface once)
 - **Otto (stealth-mode neobank on Ethereum) — Senior Growth Marketing Lead** | small/stealth crypto-fintech startup, high-ownership full-funnel growth role, remote | no explicit geo restriction found across sources; no closure signal found on 10-day re-check, though no fresh re-confirmation either | re-checked 2026-10-10 (inconclusive — still showing, not confirmed closed) | https://web3.career/growth-marketing-lead-otto/147209 (also listed: https://wellfound.com/company/otto-stealth-mode/jobs)
